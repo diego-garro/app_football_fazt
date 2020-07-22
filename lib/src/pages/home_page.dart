@@ -7,6 +7,9 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         title: Text('App Football Fazt'),
       ),
+      body: Center(
+        child: Text('La idea es que salgan las tablas aquí :)'),
+      ),
     );
   }
 }
